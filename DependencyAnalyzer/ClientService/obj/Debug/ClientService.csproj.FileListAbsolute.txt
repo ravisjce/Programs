@@ -1,0 +1,24 @@
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ClientService\bin\Debug\ServiceClientUpdated.exe.config
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ClientService\bin\Debug\ServiceClientUpdated.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ClientService\bin\Debug\ServiceClientUpdated.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ClientService\bin\Debug\IService.dll
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ClientService\bin\Debug\ManagerFile.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ClientService\bin\Debug\Parser.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ClientService\bin\Debug\ManagerFile.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ClientService\bin\Debug\IService.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ClientService\bin\Debug\Parser.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ClientService\obj\Debug\ClientService.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ClientService\obj\Debug\ServiceClientUpdated.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ClientService\obj\Debug\ServiceClientUpdated.pdb
+C:\Users\Ravi\Desktop\DependencyAnalyzer\ClientService\bin\Debug\ServiceClientUpdated.exe.config
+C:\Users\Ravi\Desktop\DependencyAnalyzer\ClientService\bin\Debug\ServiceClientUpdated.exe
+C:\Users\Ravi\Desktop\DependencyAnalyzer\ClientService\bin\Debug\ServiceClientUpdated.pdb
+C:\Users\Ravi\Desktop\DependencyAnalyzer\ClientService\bin\Debug\IService.dll
+C:\Users\Ravi\Desktop\DependencyAnalyzer\ClientService\bin\Debug\ManagerFile.exe
+C:\Users\Ravi\Desktop\DependencyAnalyzer\ClientService\bin\Debug\Parser.exe
+C:\Users\Ravi\Desktop\DependencyAnalyzer\ClientService\bin\Debug\ManagerFile.pdb
+C:\Users\Ravi\Desktop\DependencyAnalyzer\ClientService\bin\Debug\IService.pdb
+C:\Users\Ravi\Desktop\DependencyAnalyzer\ClientService\bin\Debug\Parser.pdb
+C:\Users\Ravi\Desktop\DependencyAnalyzer\ClientService\obj\Debug\ClientService.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Desktop\DependencyAnalyzer\ClientService\obj\Debug\ServiceClientUpdated.exe
+C:\Users\Ravi\Desktop\DependencyAnalyzer\ClientService\obj\Debug\ServiceClientUpdated.pdb

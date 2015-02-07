@@ -1,0 +1,6 @@
+C:\Users\Pramukh\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\Test\bin\Debug\Test.exe.config
+C:\Users\Pramukh\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\Test\bin\Debug\Test.exe
+C:\Users\Pramukh\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\Test\bin\Debug\Test.pdb
+C:\Users\Pramukh\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\Test\obj\Debug\Test.exe
+C:\Users\Pramukh\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\Test\obj\Debug\Test.pdb
+C:\Users\Pramukh\Documents\Visual Studio 2013\Projects\SMA\CodeAnalyzer\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

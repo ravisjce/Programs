@@ -1,0 +1,10 @@
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\CodeAnalyzer\bin\Debug\CodeAnalyzer.exe.config
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\CodeAnalyzer\bin\Debug\CodeAnalyzer.exe
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\CodeAnalyzer\bin\Debug\CodeAnalyzer.pdb
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\CodeAnalyzer\bin\Debug\FileManager.exe
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\CodeAnalyzer\bin\Debug\Parser.exe
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\CodeAnalyzer\bin\Debug\FileManager.pdb
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\CodeAnalyzer\bin\Debug\Parser.pdb
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\CodeAnalyzer\obj\Debug\CodeAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\CodeAnalyzer\obj\Debug\CodeAnalyzer.exe
+C:\Users\Pramukh\Documents\visual studio 2013\Projects\SMA\CodeAnalyzer\CodeAnalyzer\obj\Debug\CodeAnalyzer.pdb

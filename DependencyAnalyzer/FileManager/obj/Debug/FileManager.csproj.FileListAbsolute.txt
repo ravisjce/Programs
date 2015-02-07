@@ -1,0 +1,12 @@
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\FileManager\bin\Debug\ManagerFile.exe.config
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\FileManager\bin\Debug\ManagerFile.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\FileManager\bin\Debug\ManagerFile.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\FileManager\obj\Debug\ManagerFile.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\FileManager\obj\Debug\ManagerFile.pdb
+C:\Users\Ravi\Desktop\DependencyAnalyzer\FileManager\bin\Debug\ManagerFile.exe.config
+C:\Users\Ravi\Desktop\DependencyAnalyzer\FileManager\bin\Debug\ManagerFile.exe
+C:\Users\Ravi\Desktop\DependencyAnalyzer\FileManager\bin\Debug\ManagerFile.pdb
+C:\Users\Ravi\Desktop\DependencyAnalyzer\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Desktop\DependencyAnalyzer\FileManager\obj\Debug\ManagerFile.exe
+C:\Users\Ravi\Desktop\DependencyAnalyzer\FileManager\obj\Debug\ManagerFile.pdb

@@ -1,0 +1,12 @@
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ServiceClient\bin\Debug\ServiceClientUpdated.exe.config
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ServiceClient\bin\Debug\ServiceClientUpdated.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ServiceClient\bin\Debug\ServiceClientUpdated.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ServiceClient\bin\Debug\IService.dll
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ServiceClient\bin\Debug\ManagerFile.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ServiceClient\bin\Debug\Parser.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ServiceClient\bin\Debug\ManagerFile.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ServiceClient\bin\Debug\IService.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ServiceClient\bin\Debug\Parser.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ServiceClient\obj\Debug\ServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ServiceClient\obj\Debug\ServiceClientUpdated.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\ServiceClient\obj\Debug\ServiceClientUpdated.pdb

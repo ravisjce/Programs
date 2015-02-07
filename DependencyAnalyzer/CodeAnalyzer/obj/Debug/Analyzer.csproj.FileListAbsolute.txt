@@ -1,0 +1,16 @@
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\CodeAnalyzer\bin\Debug\CodeAnalyzer.exe.config
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\CodeAnalyzer\bin\Debug\CodeAnalyzer.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\CodeAnalyzer\bin\Debug\CodeAnalyzer.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\CodeAnalyzer\bin\Debug\Parser.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\CodeAnalyzer\bin\Debug\Parser.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\CodeAnalyzer\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\CodeAnalyzer\obj\Debug\CodeAnalyzer.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\CodeAnalyzer\obj\Debug\CodeAnalyzer.pdb
+C:\Users\Ravi\Desktop\DependencyAnalyzer\CodeAnalyzer\bin\Debug\CodeAnalyzer.exe.config
+C:\Users\Ravi\Desktop\DependencyAnalyzer\CodeAnalyzer\bin\Debug\CodeAnalyzer.exe
+C:\Users\Ravi\Desktop\DependencyAnalyzer\CodeAnalyzer\bin\Debug\CodeAnalyzer.pdb
+C:\Users\Ravi\Desktop\DependencyAnalyzer\CodeAnalyzer\bin\Debug\Parser.exe
+C:\Users\Ravi\Desktop\DependencyAnalyzer\CodeAnalyzer\bin\Debug\Parser.pdb
+C:\Users\Ravi\Desktop\DependencyAnalyzer\CodeAnalyzer\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Desktop\DependencyAnalyzer\CodeAnalyzer\obj\Debug\CodeAnalyzer.exe
+C:\Users\Ravi\Desktop\DependencyAnalyzer\CodeAnalyzer\obj\Debug\CodeAnalyzer.pdb

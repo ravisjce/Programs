@@ -1,0 +1,1 @@
+devenv DepenedencyAnalyzer.sln /rebuild debug

@@ -1,0 +1,60 @@
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\IService\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\IService\bin\Debug\IService.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\IService\bin\Debug\IService.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\IService\obj\Debug\IService.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\IService\obj\Debug\IService.pdb
+C:\Users\jim\Desktop\BasicService - Programmatic\IService\bin\Debug\IService.dll
+C:\Users\jim\Desktop\BasicService - Programmatic\IService\bin\Debug\IService.pdb
+C:\Users\jim\Desktop\BasicService - Programmatic\IService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Desktop\BasicService - Programmatic\IService\obj\Debug\IService.dll
+C:\Users\jim\Desktop\BasicService - Programmatic\IService\obj\Debug\IService.pdb
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\IService\bin\Debug\IService.dll
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\IService\bin\Debug\IService.pdb
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\IService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\IService\obj\Debug\IService.dll
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\IService\obj\Debug\IService.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\IService\bin\Debug\IService.dll
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\IService\bin\Debug\IService.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\IService\bin\Debug\ManagerFile.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\IService\bin\Debug\Parser.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\IService\bin\Debug\ManagerFile.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\IService\bin\Debug\Parser.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\IService\obj\Debug\IService.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\IService\obj\Debug\IService.dll
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\IService\obj\Debug\IService.pdb
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\IService\bin\Debug\IService.dll
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\IService\bin\Debug\IService.pdb
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\IService\bin\Debug\ManagerFile.exe
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\IService\bin\Debug\Parser.exe
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\IService\bin\Debug\ManagerFile.pdb
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\IService\bin\Debug\Parser.pdb
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\IService\obj\Debug\IService.csprojResolveAssemblyReference.cache
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\IService\obj\Debug\IService.dll
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\IService\obj\Debug\IService.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\Final_project\BasicService - Programmatic Version 2\IService\bin\Debug\IService.dll
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\Final_project\BasicService - Programmatic Version 2\IService\bin\Debug\IService.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\Final_project\BasicService - Programmatic Version 2\IService\bin\Debug\ManagerFile.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\Final_project\BasicService - Programmatic Version 2\IService\bin\Debug\Parser.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\Final_project\BasicService - Programmatic Version 2\IService\bin\Debug\ManagerFile.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\Final_project\BasicService - Programmatic Version 2\IService\bin\Debug\Parser.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\Final_project\BasicService - Programmatic Version 2\IService\obj\Debug\IService.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\Final_project\BasicService - Programmatic Version 2\IService\obj\Debug\IService.dll
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\Final_project\BasicService - Programmatic Version 2\IService\obj\Debug\IService.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\IService\bin\Debug\IService.dll
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\IService\bin\Debug\IService.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\IService\bin\Debug\ManagerFile.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\IService\bin\Debug\Parser.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\IService\bin\Debug\ManagerFile.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\IService\bin\Debug\Parser.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\IService\obj\Debug\IService.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\IService\obj\Debug\IService.dll
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\DependencyAnalyzer\IService\obj\Debug\IService.pdb
+C:\Users\Ravi\Desktop\DependencyAnalyzer\IService\bin\Debug\IService.dll
+C:\Users\Ravi\Desktop\DependencyAnalyzer\IService\bin\Debug\IService.pdb
+C:\Users\Ravi\Desktop\DependencyAnalyzer\IService\bin\Debug\ManagerFile.exe
+C:\Users\Ravi\Desktop\DependencyAnalyzer\IService\bin\Debug\Parser.exe
+C:\Users\Ravi\Desktop\DependencyAnalyzer\IService\bin\Debug\ManagerFile.pdb
+C:\Users\Ravi\Desktop\DependencyAnalyzer\IService\bin\Debug\Parser.pdb
+C:\Users\Ravi\Desktop\DependencyAnalyzer\IService\obj\Debug\IService.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Desktop\DependencyAnalyzer\IService\obj\Debug\IService.dll
+C:\Users\Ravi\Desktop\DependencyAnalyzer\IService\obj\Debug\IService.pdb
